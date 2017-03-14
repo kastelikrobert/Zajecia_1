@@ -1,0 +1,6 @@
+﻿  Zadanie_5.cpp
+e:\dokumenty\visual studio 2015\projects\gk\sprawozdania\grafika_1\zajecia_1\zadanie_5\zadanie_5.cpp(24): warning C4018: '<': signed/unsigned mismatch
+e:\dokumenty\visual studio 2015\projects\gk\sprawozdania\grafika_1\zajecia_1\zadanie_5\zadanie_5.cpp(71): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+e:\dokumenty\visual studio 2015\projects\gk\sprawozdania\grafika_1\zajecia_1\zadanie_5\zadanie_5.cpp(72): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  Zadanie_5.vcxproj -> E:\Dokumenty\Visual Studio 2015\Projects\GK\Sprawozdania\Grafika_1\Zajecia_1\Debug\Zadanie_5.exe
+  Zadanie_5.vcxproj -> E:\Dokumenty\Visual Studio 2015\Projects\GK\Sprawozdania\Grafika_1\Zajecia_1\Debug\Zadanie_5.pdb (Full PDB)
